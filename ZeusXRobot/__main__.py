@@ -94,21 +94,20 @@ STICKERS = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑️ SUBMIT GOD ZEUS ☑️",
-                            url="t.me/ZeusXRobot?startgroup=true"),
+                            text="☑️ ADD YOUR GROUP☑️",
+                            url="t.me/Natking0_music2_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💓Source", url="https://github.com/Ctzfamily/ZeusXRobot"),
-                       InlineKeyboardButton(text="📊 Network", url="https://t.me/PegasusBots"),
-                       InlineKeyboardButton(text="🔔 Logs", url="https://t.me/ZeusXRobotlogs"),
+                       InlineKeyboardButton(text="💓 Owner", url="https://t.me/Nattu011"),
+                       InlineKeyboardButton(text="🔔 Logs", url="https://t.me/natkingroup_log"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="👫 Freedom",
-                             url=f"https://t.me/UnitedSupport"),
+                             url=f"https://t.me/natkingroup_log"),
                        InlineKeyboardButton(
                              text="⚡ ZeusUpdates",
-                             url=f"https://t.me/Zeusupdates"),
+                             url=f"https://t.me/natkingroup_log"),
                      ],
                     [
                     InlineKeyboardButton(text="🔐 Open commads 🔐", callback_data="help_back"
